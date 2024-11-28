@@ -21,13 +21,6 @@ The chatbot will cover various aspects:
 
 [Demo-Video](drive link to be pasted here)
 
-### Team Members 
-All are Backend Engineers
-* Vivek Singh - vivek.3singh@angelbroking.com
-* Vignesh Subramanian - vignesh.1subramanian@angelbroking.com
-* Gyanish Kumar - gyanish.kumar@angelbroking.com
-* Abhishek Garg - abhishek.garg@angelbroking.com
-
 ### Impact
 
 #### - Business Metrics:
